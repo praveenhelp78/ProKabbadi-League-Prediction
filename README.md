@@ -24,7 +24,7 @@ Dataset Creation:
 We have Created dataset for each individual team the code is also available in the jupyter note book.
 #Creating Player Dataset from pdf files
 
-I have done for Bangalore only because of time constraints.
+We have done for Bangalore only because of time constraints.
 
 Note: I am unable to upload players CSV file it is around 150 players and having 150 CSV file.
       I am still trying to uplaod.
